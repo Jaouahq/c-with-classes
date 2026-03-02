@@ -1,2 +1,2 @@
 # c-with-classes
-C++ for both benign and “malicious” use.
+C++ for both benign and malicious use.
